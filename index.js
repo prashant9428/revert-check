@@ -7,3 +7,5 @@ console.log("added a log 2")
 
 
 console.log("added a log 3 added after merge in dev")
+
+console.log("added a commit 4")
